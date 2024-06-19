@@ -1,0 +1,29 @@
+.sectionHome{
+    position: relative;
+    width: 50%;
+    height: 500px;
+}   
+
+.imgMala img{
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin-top: 50px;
+}
+
+.rigthSection{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background-color: aqua;
+    margin-top: 100px;
+    float: right;
+}
+ .rigthSection h1{
+    font-size: 40px;
+}
+
+.rigthSection p{
+    text-align: center;
+} 
